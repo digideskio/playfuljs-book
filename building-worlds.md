@@ -27,38 +27,34 @@ In fact, most are older than JavaScript itself.
 
 ![Simple Terrain](https://cloud.githubusercontent.com/assets/364501/3404243/0bf97dd0-fd6f-11e3-9936-4d1f6ae53ae3.png)
 
-### 3. Rendering with WebGL
-
-![WebGL](http://www.awwwards.com/awards/images/2012/05/webgl_demos_examples_23.jpg)
-
-### 4. Rendering with Voxels
+### 3. Rendering
 
 ![Kings Landing](http://www.vgu.tv/wp-content/uploads/2013/01/kingland.jpg)
 
-### 5. Walking Around
+- Heightmaps / Raycasting
+- Voxels
+- Rasterization (WebGL)
 
-### 6. Texturing
+### 4. Getting Around: Walking and Flying
+
+### 5. Texturing
 
 ![Textured Terrain](http://2.bp.blogspot.com/-syVpnUnuLuM/UvPTkADr-RI/AAAAAAAACpI/mBCb5mS1jTI/s1600/k.png)
 
-### 7. Lighting and Atmosphere
+### 6. Lighting and Atmosphere
 
 ![Sunset](http://fc09.deviantart.net/fs4/i/2004/243/a/8/Paradise_Lost____Terragen.jpg)
 
-### 8. Flying Around
-
-### 9. Rivers, Lakes, and Oceans
+### 7. Rivers, Lakes, and Oceans
 
 ![Ocean](http://unigine.com/articles/130605-procedural-content-generation/full/32_oilrush_ocean_bottom1.jpg)
 
-### 10. Plants and Vegetation
+### 8. Plants and Vegetation
 
 ![Trees](http://i.stack.imgur.com/hnV97.jpg)
 
-### 11. Roads and Paths
+### 9. Roads and Paths
 
 ![Roads](http://i1.ytimg.com/vi/4dIiXpCwnHs/maxresdefault.jpg)
 
-### 12. Driving Around
-
-...
+### 10. Putting It All Together
