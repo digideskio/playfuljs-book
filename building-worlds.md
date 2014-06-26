@@ -27,11 +27,11 @@ In fact, most are older than JavaScript itself.
 
 ![Simple Terrain](https://cloud.githubusercontent.com/assets/364501/3404243/0bf97dd0-fd6f-11e3-9936-4d1f6ae53ae3.png)
 
-### 3. WebGL
+### 3. Rendering with WebGL
 
 ![WebGL](http://www.awwwards.com/awards/images/2012/05/webgl_demos_examples_23.jpg)
 
-### 4. Voxels
+### 4. Rendering with Voxels
 
 ![Kings Landing](http://www.vgu.tv/wp-content/uploads/2013/01/kingland.jpg)
 
