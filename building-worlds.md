@@ -5,8 +5,11 @@
 
 This is a book about breathing life into imaginary places.
 
-It uses JavaScript, the language of the web.
-If you build something cool in JS, it's easy to share with your friends.
+If you learn something about design patterns, algorithms, or data structures along the way,
+I apologize and assure you it's purely coincidental.
+Math beyond basic algebra is strictly prohibited as neither I nor my editor understand it.
+
+We'll use JavaScript, the language of the web, because if you build something cool in JS it's easy to share with your friends.
 It's also reasonably fast and very high-level, so we can express big ideas with just a little code.
 Some of our examples will also use specific JavaScript tools like Canvas or WebGL.
 
