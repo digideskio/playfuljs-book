@@ -5,7 +5,7 @@
 
 This is a book about breathing life into imaginary places.
 
-This book uses JavaScript, the language of the we.
+It uses JavaScript, the language of the web.
 If you build something cool, it's easy to share with your friends.
 It's also reasonably fast and very high-level, so we can express big ideas with just a little code.
 Some of our examples will also use specific JavaScript tools like Canvas or WebGL.
