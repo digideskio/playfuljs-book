@@ -54,7 +54,7 @@ In fact, most are older than JavaScript itself.
 
 ### 8. Voxel Rendering
 
-![Voxel Kings Landing](http://blog.roblox.com/wp-content/uploads/2013/12/KingsLanding1.png)
+![Voxel Kings Landing](http://www.vgu.tv/wp-content/uploads/2013/01/kingland.jpg)
 
 ### 9. Rasterized 3D
 
