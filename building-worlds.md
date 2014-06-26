@@ -37,7 +37,7 @@ In fact, most are older than JavaScript itself.
 
 ### 6. Raycasting
 
-![Raycaster](http://i1.ytimg.com/vi/eiFUV71Nyxw/maxresdefault.jpg)
+![Raycaster](http://oi46.tinypic.com/29o1qf8.jpg)
 
 - drawing walls
 - moving and looking around
