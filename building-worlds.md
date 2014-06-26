@@ -37,7 +37,7 @@ In fact, most are older than JavaScript itself.
 
 ### 5. Walking Around
 
-### 6. Texturing Terrain
+### 6. Texturing
 
 ![Textured Terrain](http://2.bp.blogspot.com/-syVpnUnuLuM/UvPTkADr-RI/AAAAAAAACpI/mBCb5mS1jTI/s1600/k.png)
 
