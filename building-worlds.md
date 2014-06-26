@@ -7,7 +7,7 @@ This is a book about breathing life into imaginary places.
 
 If you learn something about design patterns, algorithms, or data structures along the way,
 I apologize and assure you it's purely coincidental.
-If you're looking for math, you've come to the wrong place.
+If you're looking for advanced math, this is not the book for you.
 I suck at math, so we'll squeak by with the minimum amount necessary.
 
 We'll use JavaScript, the language of the web, because if you build something cool in JS it's easy to share with your friends.
