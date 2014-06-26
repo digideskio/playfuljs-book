@@ -58,11 +58,11 @@ In fact, most are older than JavaScript itself.
 
 ### 8. Voxel Rendering
 
-![Voxel Kings Landing](http://www.vgu.tv/wp-content/uploads/2013/01/kingland.jpg)
+![Voxel Kings Landing](http://i.kinja-img.com/gawker-media/image/upload/s--hB_KFSV1--/c_fit,fl_progressive,q_80,w_636/18d2a14m14wvdjpg.jpg)
 
 ### 9. Rasterized 3D
 
-![WebGL Ocean](http://i.imgur.com/6hzpIYY.png)
+![WebGL Ocean](http://tpucdn.com/npu/img/2013/03-28/1056-2b234882_680_400.jpg)
 
 - WebGL
 - Building a terrain mesh
