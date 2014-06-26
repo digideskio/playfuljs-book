@@ -1,14 +1,18 @@
 # Playful JavaScript
-## Building Digital Worlds
+## Building Procedural Worlds
 
 ### 1. Introduction
 
 This is a book about breathing life into imaginary places.
 
-If you learn something about design patterns, algorithms, or data structures along the way,
+Procedural generation let a programmer create endless interactive, 3D environments
+without any experience in art, modeling, or animation.
+As the size of environments in games, movies, and other media increases,
+content creators are turning more and more to procedural methods. 
+
+This books explores fun, playful, and visual algorithms - with the absolute minimum math necessary.
+If you learn something about design patterns or data structures along the way,
 I apologize and assure you it's purely coincidental.
-If you're looking for advanced math, this is not the book for you.
-I suck at math, so we'll squeak by with the minimum amount necessary.
 
 We'll use JavaScript, the language of the web, because if you build something cool in JS it's easy to share with your friends.
 It's also reasonably fast and very high-level, so we can express big ideas with just a little code.
@@ -19,71 +23,38 @@ simple, elegant ideas that generate beautiful results.
 Such ideas are not bound to any specific language or tool.
 In fact, most are older than JavaScript itself.
 
-### 2. Tiles
-
-![Braid](http://learningworksforkids.com/wp-content/uploads/Braid-screen01.jpg)
-
-### 3. Parallax
-
-![Stormandy](http://fc08.deviantart.net/fs70/f/2012/343/0/6/wip_parallax_background_by_stormandy-d5n5tr6.png)
-
-### 4. Isometric Perspective
-
-![Sim City](http://web-vassets.ea.com/Assets/Resources/Image/Screenshots/scs-commercial-city.jpg?cb=1338867364)
-
-### 5. Raycasting
-
-![Raycaster](http://oi46.tinypic.com/29o1qf8.jpg)
-
-- drawing walls
-- moving and looking around
-- lighting and textures
-- placing items
-- building a skybox
-- windows and doors
-- floors and ceilings
-- variable-height walls and terrain
-- special effects
-- use in 2D games (stealth / shadow-casting)
-- use in AI (line-of-sight)
-- use in simulating explosions
-
-### 6. Raytracing
-
-![Raytraced Glasses](http://upload.wikimedia.org/wikipedia/commons/e/ec/Glasses_800_edit.png)
-
-### 7. Procedural Terrain
+### 2. Terrain
 
 ![Mountains](http://www.decarpentier.nl/wp-content/uploads/scape_ridge_mountains.jpg)
 
-### 8. Voxels
+### 3. Rivers, Lakes, and Oceans
 
-![Voxel Kings Landing](http://i.kinja-img.com/gawker-media/image/upload/s--hB_KFSV1--/c_fit,fl_progressive,q_80,w_636/18d2a14m14wvdjpg.jpg)
+![Ocean](http://unigine.com/articles/130605-procedural-content-generation/full/32_oilrush_ocean_bottom1.jpg)
 
-### 9. Rasterized 3D
+### 4. Lighting and Atmosphere
 
-![WebGL Ocean](http://tpucdn.com/npu/img/2013/03-28/1056-2b234882_680_400.jpg)
+![Sunset](http://fc09.deviantart.net/fs4/i/2004/243/a/8/Paradise_Lost____Terragen.jpg)
 
-- WebGL
-- Building a terrain mesh
-- Lighting
-- Tiling terrain
-- Level of detail
-- Textures
-- Water
-- Vegetation
-- Atmosphere
-- Flying around
+### 5. Plants and Vegetation
 
-### 10. Procedural Decorations
+![Trees](http://i.stack.imgur.com/hnV97.jpg)
 
-![No Man's Sky](http://cdn3.vox-cdn.com/assets/4646831/no-mans-sky-gallery-06.jpg)
+### 6. Weather
 
-- Trees
-- Flowers
-- Insects
-- Fish
-- Rocks
-- Grass
-- Weather
-- Houses
+![Atmosphere](http://users.jyu.fi/~trenk/pics/procedural05.jpg)
+
+### 7. Stars and Planets
+
+![Planet](http://fc01.deviantart.net/fs48/f/2009/204/d/d/Procedural_Planet_Test_Set_8_by_nvseal.jpg)
+
+### 8. Buildings
+
+![Building](http://2.bp.blogspot.com/-VnpwHa-lKbU/T0ieBqQvAYI/AAAAAAAAAyY/LLm4mb_r_v0/s1600/demohouse.png)
+
+### 9. Roads and Paths
+
+![Roads](http://i1.ytimg.com/vi/4dIiXpCwnHs/maxresdefault.jpg)
+
+### 10. Putting it All Together
+
+...
