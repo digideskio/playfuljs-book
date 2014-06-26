@@ -5,8 +5,8 @@
 
 This is a book about breathing life into imaginary places.
 
-Procedural generation let a programmer create endless interactive, 3D environments
-without any experience in art, modeling, or animation.
+Through procedural generation, a programmer can create endless interactive, 3D environments
+without any background in art, modeling, or animation.
 As the size of environments in games, movies, and other media increases,
 content creators are turning more and more to procedural methods. 
 
