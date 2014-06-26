@@ -56,7 +56,7 @@ In fact, most are older than JavaScript itself.
 
 ![Mountains](http://www.decarpentier.nl/wp-content/uploads/scape_ridge_mountains.jpg)
 
-### 8. Voxel Rendering
+### 8. Voxels
 
 ![Voxel Kings Landing](http://i.kinja-img.com/gawker-media/image/upload/s--hB_KFSV1--/c_fit,fl_progressive,q_80,w_636/18d2a14m14wvdjpg.jpg)
 
