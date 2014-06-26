@@ -15,7 +15,7 @@ It's also reasonably fast and very high-level, so we can express big ideas with 
 Some of our examples will also use specific JavaScript tools like Canvas or WebGL.
 
 However, this book is really about *ideas* -
-simple, elegant ideas that generate beautiful complexity.
+simple, elegant ideas that generate beautiful results.
 Such ideas are not bound to any specific language or tool.
 In fact, most are older than JavaScript itself.
 
