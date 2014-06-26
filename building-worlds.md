@@ -25,7 +25,7 @@ In fact, most are older than JavaScript itself.
 
 ### 2. Generating Terrain
 
-![Mountains](http://www.decarpentier.nl/wp-content/uploads/scape_ridge_mountains.jpg)
+![Simple Terrain](https://cloud.githubusercontent.com/assets/364501/3404243/0bf97dd0-fd6f-11e3-9936-4d1f6ae53ae3.png)
 
 ### 3. WebGL
 
