@@ -7,7 +7,8 @@ This is a book about breathing life into imaginary places.
 
 If you learn something about design patterns, algorithms, or data structures along the way,
 I apologize and assure you it's purely coincidental.
-Math beyond basic algebra is strictly prohibited as neither I nor my editor understand it.
+If you're looking for math, you've come to the wrong place.
+I suck at math, so we'll stick to the basics here.
 
 We'll use JavaScript, the language of the web, because if you build something cool in JS it's easy to share with your friends.
 It's also reasonably fast and very high-level, so we can express big ideas with just a little code.
