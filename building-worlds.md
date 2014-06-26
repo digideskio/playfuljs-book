@@ -1,5 +1,5 @@
 # Playful JavaScript
-## Building Worlds
+## Building Digital Worlds
 
 ### 1. Introduction
 
