@@ -27,15 +27,11 @@ In fact, most are older than JavaScript itself.
 
 ![Stormandy](http://fc08.deviantart.net/fs70/f/2012/343/0/6/wip_parallax_background_by_stormandy-d5n5tr6.png)
 
-### 4. Procedural Terrain
-
-![Mountains](http://www.decarpentier.nl/wp-content/uploads/scape_ridge_mountains.jpg)
-
-### 5. Isometric Perspective
+### 4. Isometric Perspective
 
 ![Sim City](http://web-vassets.ea.com/Assets/Resources/Image/Screenshots/scs-commercial-city.jpg?cb=1338867364)
 
-### 6. Raycasting
+### 5. Raycasting
 
 ![Raycaster](http://oi46.tinypic.com/29o1qf8.jpg)
 
@@ -52,9 +48,13 @@ In fact, most are older than JavaScript itself.
 - use in AI (line-of-sight)
 - use in simulating explosions
 
-### 7. Raytracing
+### 6. Raytracing
 
 ![Raytraced Glasses](http://upload.wikimedia.org/wikipedia/commons/e/ec/Glasses_800_edit.png)
+
+### 7. Procedural Terrain
+
+![Mountains](http://www.decarpentier.nl/wp-content/uploads/scape_ridge_mountains.jpg)
 
 ### 8. Voxel Rendering
 
