@@ -5,7 +5,7 @@
 
 Programming is fun, and everything doesn't need a purpose.
 Instead of debating best practices, analyzing unit testing frameworks,
-or otherwise making you into a *More Productive Developer*,
+or otherwise making you into a *More Productive Programmer*,
 we'll just explore awesome things you can do with JavaScript.
 
 If you happen to learn a cool new design pattern, algorithm, or data structure along the way - great!
